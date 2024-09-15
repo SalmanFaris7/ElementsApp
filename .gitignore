@@ -1,0 +1,18 @@
+# NetBeans specific files
+nbproject/private/
+nbproject/hidden/
+build/
+dist/
+
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
